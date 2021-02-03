@@ -5,7 +5,7 @@ import Page from '../page/Page';
 import { homeObjOne, homeObjTwo, homeObjThree } from './Data';
 import Homepage from './Homepage';
 import './Home.css'
-//import Pricing from '../../Pricing';
+
 
 
 function Home() {
@@ -16,7 +16,6 @@ function Home() {
       <HeroSection {...homeObjOne} />
       <HeroSection {...homeObjThree} />
       <HeroSection {...homeObjTwo} />
-      {/* <HeroSection {...homeObjFour} /> */}
       <Page />
       <Footer />
       </div>

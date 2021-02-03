@@ -2,14 +2,8 @@ import React from 'react';
 import { Button } from '../../Button';
 import './Homepage.css';
 import { Link } from "react-router-dom";
-import { createMuiTheme , responsiveFontSizes, MuiThemeProvider,Typography } from '@material-ui/core';
 
-let theme = createMuiTheme();
-theme = responsiveFontSizes((theme));
 
-// const heading ='Subscription Billing & Revenue Operations';
-// const subheading='For Fast-growth B2B SaaS';
-// const desc ='Get the operational sophistication to achieve, sustain,and scale recurring revenue.';
 const Homepage = () => {
     return (
         <div className='Homepage'>

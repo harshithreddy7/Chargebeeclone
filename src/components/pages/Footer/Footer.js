@@ -2,7 +2,6 @@ import React from 'react';
 import './Footer.css';
 import {
     FaFacebook,
-    FaInstagram,
     FaYoutube,
     FaTwitter,
     FaLinkedin

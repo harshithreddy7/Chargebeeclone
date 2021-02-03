@@ -22,8 +22,4 @@ const Homepage = () => {
 }
 
 export default Homepage;
-{/* <MuiThemeProvider theme={theme}>
-<Typography variant='h1'  gutterBottom>{heading}</Typography>
-<Typography variant='h2' gutterBottom>{subheading}</Typography>
-<Typography variant='p' gutterBottom>{desc}</Typography>
-</MuiThemeProvider> */}
+

@@ -60,7 +60,7 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-                <img src='https://www.chargebee.com/static/resources/brand/chargebee-logo-black.svg'/>
+                <img src='https://www.chargebee.com/static/resources/brand/chargebee-logo-black.svg' alt='' />
             </Link>
           </div>
           <div class='social-icons'>

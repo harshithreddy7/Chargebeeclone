@@ -12,7 +12,7 @@ const Page = () => {
                     <p>if it affects your revenue cycle, Chargebee works with it.</p>
                 </div>
             </div>
-            <img src='https://webstatic.chargebee.com/assets/web/351/images/home/lemon/revenue-management.svg' />
+            <img src='https://webstatic.chargebee.com/assets/web/351/images/home/lemon/revenue-management.svg' alt='' />
             <div className="page_box">
                 <div className='page_up'>
                     

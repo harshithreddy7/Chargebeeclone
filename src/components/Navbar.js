@@ -37,6 +37,7 @@ const Navbar = () => {
                             <img 
                                 className='navbar_logo'
                                 src='https://www.chargebee.com/static/resources/brand/chargebee-logo-black.svg'
+                                alt =''
                             />
                     </Link>
                     <div  className='menu-icon' onClick={handleClick}>

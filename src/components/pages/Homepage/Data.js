@@ -40,3 +40,23 @@ export const homeObjOne = {
     alt: 'Vault'
   };
   
+export const pageRowOne = {
+  topLine: 'Quote-to-Cash Automation',
+    headline: 'Powers Sales and Marketing CRM',
+    description:
+      "Handle quotes, approvals, acceptance, and collections seamlessly from within the CRM.",
+    buttonLabel: 'Learn More',
+    img: 'https://webstatic.chargebee.com/assets/web/352/images/home/lemon/crm-logos.png',
+    alt: 'Vault'
+
+};
+export const pageRowTwo = {
+  topLineTwo: 'Offer More Payment Methods',
+    headlineTwo: '25+ Payment Gateways',
+    descriptionTwo:
+      "Accept payments across a wide array of gateways, geographies, and currencies.",
+    buttonLabelTwo: 'Learn More',
+    imgTwo: 'https://webstatic.chargebee.com/assets/web/352/images/home/lemon/pg-logos.png',
+    altTwo: 'Vault'
+
+};

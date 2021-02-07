@@ -12,11 +12,13 @@
     width: 100%;
     max-width: 1000px;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
   }
   
   .footer-link-wrapper {
     display: flex;
+    align-items: flex-start;
+    
   }
   
   .footer-link-items {
